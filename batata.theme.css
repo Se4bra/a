@@ -1,0 +1,57 @@
+/**
+ * @name batata
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/5dxUNQH.jpg');
+  --background-image-blur: 2px;
+  --background-image-size: auto;
+  --background-image-position: center;
+  --popout-image: transparent;
+  --popout-image-blur: 4px;
+  --popout-image-size: 200%;
+  --popout-image-position: center;
+  --overlay-image: transparent;
+  --overlay-image-blur: 1px;
+  --overlay-image-size: 200%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://cdn.allthings.how/wp-content/uploads/2020/09/allthings.how-how-to-create-an-aesthetic-iphone-home-screen-with-custom-app-icons-and-photo-widgets-discord-neon-aesthetic-2.png');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 1;
+  --left-brightness: 0.84;
+  --middle-brightness: 0.76;
+  --right-brightness: 0;
+  --overlay-brightness: 0.72;
+  --gradient-primary: 121,39,176;
+  --gradient-secondary: 38,114,202;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0.04;
+  --font: Lato;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
